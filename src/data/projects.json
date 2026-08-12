@@ -1,0 +1,108 @@
+[
+  {
+    "id": "sheet-store-app",
+    "title": "SheetStore - Data & Sheet Analytics Platform",
+    "category": "Web Application",
+    "date": "2026",
+    "tools": ["React", "Node.js", "Express", "MongoDB", "Vercel"],
+    "role": "Full Stack Developer",
+    "timeline": "Production Live",
+    "problem": "Teams and businesses need a centralized cloud platform to manage, query, store, and analyze spreadsheet data efficiently.",
+    "dataset": "Cloud Spreadsheet Storage & APIs",
+    "approach": "Built and deployed SheetStore on Vercel. Engineered a responsive web application allowing users to upload, query, analyze, and manage sheet data with real-time dashboards and API pipelines.",
+    "insights": "Streamlined spreadsheet workflows into a fast, accessible cloud data platform.",
+    "impact": {
+      "efficiency": "100%",
+      "costAvoided": "Automated Flow",
+      "uptime": "99.9%"
+    },
+    "liveLink": "https://sheet-store.vercel.app/",
+    "githubLink": "https://github.com/ankurpal01",
+    "image": "/images/sheet_store.jpg"
+  },
+  {
+    "id": "google-data-studio-analytics",
+    "title": "Google Looker Studio BI Dashboard",
+    "category": "Dashboard Design",
+    "date": "2026",
+    "tools": ["Looker Studio", "Google Data Studio", "SQL", "BigQuery"],
+    "role": "Data Analyst",
+    "timeline": "2 Weeks",
+    "problem": "Executive leadership required real-time, interactive KPI tracking and cross-channel performance analytics.",
+    "dataset": "Multi-channel performance data logs",
+    "approach": "Designed and published an interactive dashboard on Google Looker Studio with dynamic date slicers, real-time metrics, regional revenue breakdown, and automated data updates.",
+    "insights": "Unlocked real-time decision making with live embedded reporting.",
+    "impact": {
+      "efficiency": "100%",
+      "costAvoided": "Real-time BI",
+      "uptime": "99.9%"
+    },
+    "liveLink": "https://datastudio.google.com/reporting/23720974-5f5c-4845-b37d-5f5932c4582c",
+    "embedLink": "https://datastudio.google.com/embed/reporting/23720974-5f5c-4845-b37d-5f5932c4582c",
+    "githubLink": "https://github.com/ankurpal01",
+    "image": "/images/looker_studio.jpg"
+  },
+  {
+    "id": "uidai-data-hackathon",
+    "title": "UIDAI Data Hackathon–2026",
+    "category": "Data Engineering",
+    "date": "2026",
+    "tools": ["Python", "Pandas", "Matplotlib"],
+    "role": "Data Analyst",
+    "timeline": "Hackathon",
+    "problem": "Identify high-load regions and infrastructure pressure zones using demographic and biometric data.",
+    "dataset": "4.9M+ Aadhaar records merging 10+ CSV datasets.",
+    "approach": "Processed 4.9M records using Pandas. Engineered features including enrollment/update totals and district-level update ratios. Performed age-group segmentation (0–5, 5–17, 18+). Built visualizations using Matplotlib.",
+    "insights": "Highlighted top states and districts by enrollment and update activity.",
+    "impact": {
+      "efficiency": "4.9M",
+      "costAvoided": "Scale",
+      "uptime": "100%"
+    },
+    "liveLink": "https://github.com/ankurpal01",
+    "githubLink": "https://github.com/ankurpal01",
+    "image": "/images/uidai_hackathon.jpg"
+  },
+  {
+    "id": "sql-ecommerce-funnel",
+    "title": "E-commerce Funnel & Revenue Leakage Analysis",
+    "category": "Data Analysis",
+    "date": "2024",
+    "tools": ["SQL", "JOIN", "CTE", "Window Functions"],
+    "role": "Data Analyst",
+    "timeline": "3 Weeks",
+    "problem": "Where are users dropping off before purchase?",
+    "dataset": "Kaggle e-commerce / retail dataset",
+    "approach": "Analyzed funnel stages (visit → add to cart → checkout → payment). Wrote advanced SQL queries using JOINs, CTEs, Window Functions, and conducted cohort analysis to identify drop-offs and revenue loss.",
+    "insights": "Checkout page causes 35% drop → fix UX",
+    "impact": {
+      "efficiency": "35%",
+      "costAvoided": "Leakage Fixed",
+      "uptime": "100%"
+    },
+    "liveLink": "https://github.com/ankurpal01",
+    "githubLink": "https://github.com/ankurpal01",
+    "image": "/images/ecommerce_funnel.jpg"
+  },
+  {
+    "id": "powerbi-sales-dashboard",
+    "title": "Sales Performance Dashboard (Executive Level)",
+    "category": "Dashboard Design",
+    "date": "2024",
+    "tools": ["Power BI", "DAX"],
+    "role": "Data Analyst",
+    "timeline": "4 Weeks",
+    "problem": "Business leaders need quick decisions from data.",
+    "dataset": "Sales performance logs",
+    "approach": "Built interactive dashboard with KPI cards (Revenue, Profit, Growth %), Region-wise performance, Product category trends, and Time-series (monthly sales). Included DAX measures (YoY growth, moving average), drill-down, and slicers.",
+    "insights": "North region underperforming by 18%. Top 20% products drive 80% revenue.",
+    "impact": {
+      "efficiency": "18%",
+      "costAvoided": "Identified",
+      "uptime": "100%"
+    },
+    "liveLink": "https://github.com/ankurpal01",
+    "githubLink": "https://github.com/ankurpal01",
+    "image": "/images/powerbi_sales.jpg"
+  }
+]

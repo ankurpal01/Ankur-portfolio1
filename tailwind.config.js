@@ -1,0 +1,71 @@
+export default {
+  darkMode: "class",
+  theme: {
+    extend: {
+      colors: {
+        "primary": "#81ecff",
+        "surface": "#0e0e0e",
+        "inverse-surface": "#fcf8f8",
+        "secondary-fixed-dim": "#ddb3ff",
+        "surface-dim": "#0e0e0e",
+        "on-error": "#490006",
+        "on-primary-container": "#004d57",
+        "on-background": "#ffffff",
+        "tertiary": "#82a3ff",
+        "on-tertiary-fixed-variant": "#003388",
+        "on-surface": "#ffffff",
+        "surface-variant": "#262626",
+        "background": "#0e0e0e",
+        "secondary-dim": "#a533ff",
+        "inverse-primary": "#006976",
+        "error-dim": "#d7383b",
+        "surface-container-lowest": "#000000",
+        "secondary": "#c47fff",
+        "on-secondary": "#340059",
+        "outline-variant": "#494847",
+        "on-secondary-fixed": "#500086",
+        "on-tertiary-container": "#001747",
+        "surface-container-low": "#131313",
+        "surface-container": "#1a1919",
+        "surface-tint": "#81ecff",
+        "tertiary-fixed": "#92aeff",
+        "error": "#ff716c",
+        "error-container": "#9f0519",
+        "primary-dim": "#00d4ec",
+        "secondary-container": "#8c00e5",
+        "surface-container-highest": "#262626",
+        "on-primary-fixed-variant": "#005762",
+        "surface-bright": "#2c2c2c",
+        "outline": "#777575",
+        "on-tertiary": "#002363",
+        "on-surface-variant": "#adaaaa",
+        "on-primary-fixed": "#003840",
+        "surface-container-high": "#201f1f",
+        "on-tertiary-fixed": "#001442",
+        "primary-fixed": "#00e3fd",
+        "tertiary-container": "#6f94fa",
+        "on-primary": "#005762",
+        "on-secondary-fixed-variant": "#7900c6",
+        "on-secondary-container": "#fff5ff",
+        "tertiary-dim": "#759aff",
+        "primary-fixed-dim": "#00d4ec",
+        "primary-container": "#00e3fd",
+        "secondary-fixed": "#e7c5ff",
+        "inverse-on-surface": "#565554",
+        "tertiary-fixed-dim": "#7da0ff",
+        "on-error-container": "#ffa8a3"
+      },
+      borderRadius: {
+        "DEFAULT": "0.25rem",
+        "lg": "0.5rem",
+        "xl": "0.75rem",
+        "full": "9999px"
+      },
+      fontFamily: {
+        headline: ["Inter", "system-ui", "sans-serif"],
+        body: ["Inter", "system-ui", "sans-serif"],
+        label: ["Inter", "system-ui", "sans-serif"]
+      }
+    }
+  }
+}
